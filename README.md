@@ -15,9 +15,16 @@ Here I designed a complete graphical interface , in which there are many applica
 
 #Applications  :
 
-Image Viewer : Any Image can be viewd by touching the thumb and fingers ,Next and Previous image can be viewed by forward and backward                    motion of fingers over the image .
-Car racing game : The motion of car is controlled by the motion of fingers .
-Virtual Keyboard : A complete keyboard made using pygame , Virtually user can type anything .
-Paint : Anything can be drawn by tracking fingers in different colour , different stroke size .
+    Image Viewer : Any Image can be viewd by touching the thumb and fingers ,Next and Previous image can be viewed by forward and backward                    motion of fingers over the image .
+
+    Car racing game : The motion of car is controlled by the motion of fingers .
+
+    Virtual Keyboard : A complete keyboard made using pygame , Virtually user can type anything .
+
+    Paint : Anything can be drawn by tracking fingers in different colour , different stroke size .
 
 
+
+Gesture of hand are detected using 2 colour (Blue and Green ) . Colour markers are pasted on finger . The click operation is performed when 2 fingers (one finger and thumb ) are touched .
+
+Sample Sxreenshot are in screen shot folder .
