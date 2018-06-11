@@ -29,5 +29,9 @@ Gesture of hand are detected using 2 colour (Blue and Green ) . Colour markers a
 
 Sample Screenshot are in screen shot folder .
 
-GESTURE%2520BASED%2520USER%2520INTERFACE/ScreenShot/gallery.jpg
+Keyboard App: 
 ![alt text](https://github.com/sk1210/GESTURE-BASED-USER-INTERFACE/blob/master/GESTURE%2520BASED%2520USER%2520INTERFACE/ScreenShot/keyboard.jpg)
+
+Paint App: 
+![alt text](
+https://github.com/sk1210/GESTURE-BASED-USER-INTERFACE/blob/master/GESTURE%2520BASED%2520USER%2520INTERFACE/ScreenShot/paint.jpg)
