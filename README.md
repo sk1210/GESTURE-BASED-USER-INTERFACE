@@ -28,3 +28,6 @@ Here I designed a complete graphical interface , in which there are many applica
 Gesture of hand are detected using 2 colour (Blue and Green ) . Colour markers are pasted on finger . The click operation is performed when 2 fingers (one finger and thumb ) are touched .
 
 Sample Screenshot are in screen shot folder .
+
+GESTURE%2520BASED%2520USER%2520INTERFACE/ScreenShot/gallery.jpg
+![alt text](https://github.com/sk1210/GESTURE-BASED-USER-INTERFACE/blob/master/GESTURE%2520BASED%2520USER%2520INTERFACE/ScreenShot/keyboard.jpg)
